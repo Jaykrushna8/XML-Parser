@@ -1,0 +1,9 @@
+c:\users\jaykrishna\documents\visual studio 2013\Projects\Msxmlparser\Msxmlparser\bin\Debug\Msxmlparser.exe.config
+c:\users\jaykrishna\documents\visual studio 2013\Projects\Msxmlparser\Msxmlparser\bin\Debug\Msxmlparser.exe
+c:\users\jaykrishna\documents\visual studio 2013\Projects\Msxmlparser\Msxmlparser\bin\Debug\Msxmlparser.pdb
+c:\users\jaykrishna\documents\visual studio 2013\Projects\Msxmlparser\Msxmlparser\bin\Debug\Msxmlparser.xml
+c:\users\jaykrishna\documents\visual studio 2013\Projects\Msxmlparser\Msxmlparser\obj\Debug\Msxmlparser.Resources.resources
+c:\users\jaykrishna\documents\visual studio 2013\Projects\Msxmlparser\Msxmlparser\obj\Debug\Msxmlparser.vbproj.GenerateResource.Cache
+c:\users\jaykrishna\documents\visual studio 2013\Projects\Msxmlparser\Msxmlparser\obj\Debug\Msxmlparser.exe
+c:\users\jaykrishna\documents\visual studio 2013\Projects\Msxmlparser\Msxmlparser\obj\Debug\Msxmlparser.xml
+c:\users\jaykrishna\documents\visual studio 2013\Projects\Msxmlparser\Msxmlparser\obj\Debug\Msxmlparser.pdb
